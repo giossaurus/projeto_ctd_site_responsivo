@@ -192,7 +192,7 @@ hr.light-100 {
     padding: 1rem;
 }
 
-/*--- TENTATIVA DE MODO ESCURO --*/
+/*--- TENTATIVA DE MODO ESCURO 
 [data-theme="dark"] {
     background-color:#111 !important;
     color:#eee;
@@ -209,6 +209,10 @@ hr.light-100 {
   [data-theme="dark"] .bg-black {
     background-color:#eee !important;
   }
+
+
+  Rever o tutorial ensinando, mas qualquer coisa deixar como está apenas mexendo nas imagens que faltam e textos.
+--*/
   
 
 
