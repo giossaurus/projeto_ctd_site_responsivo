@@ -1,12 +1,3 @@
-/*--- IDEAS PRO SITE/ MUDANÇAS 
-Considerar trocar as cores, talvez um dark mode fique mais bonito - prazo até 06/05 --*/
-
-
-
-
-
-
-
 @import url('https://fonts.googleapis.com/css?family=Poppins:400,500,700');
 
 html, body {
@@ -191,30 +182,6 @@ hr.light-100 {
 [class*="col-"] {
     padding: 1rem;
 }
-
-/*--- TENTATIVA DE MODO ESCURO 
-[data-theme="dark"] {
-    background-color:#111 !important;
-    color:#eee;
-  }
-
-  [data-theme="dark"] .bg-light {
-    background-color:#333 !important;
-  }
-  
-  [data-theme="dark"] .bg-white {
-    background-color:#000 !important;
-  }
-  
-  [data-theme="dark"] .bg-black {
-    background-color:#eee !important;
-  }
-
-
-  Rever o tutorial ensinando, mas qualquer coisa deixar como está apenas mexendo nas imagens que faltam e textos.
---*/
-  
-
 
 
 
