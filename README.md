@@ -1,4 +1,4 @@
-![readme img](https://github.com/giossaurus/](https://github.com/giossaurus/projeto_ctd_site_responsivo/blob/main/readme%20portfolio%20responsivo.png)
+![readme img](https://github.com/giossaurus/projeto_ctd_site_responsivo/blob/main/readme%20portfolio%20responsivo.png)
 <br>
 
 
